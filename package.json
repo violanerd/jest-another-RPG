@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "role playing game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/violanerd/jest-another-RPG.git"
+  },
+  "author": "Madalyne Cross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/violanerd/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/violanerd/jest-another-RPG#readme"
+}
